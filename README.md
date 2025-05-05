@@ -60,10 +60,10 @@ Aqui está a lista organizada com os desafios divididos por nível, usando emoji
 - [x] **Day 2** - Understanding Data Types and How to Manipulate Strings
 - [x] **Day 3** - Control Flow and Logical Operators
 - [x] **Day 4** - Randomisation and Python Lists
-- [ ] **Day 5** - Python Loops
-- [ ] **Day 6** - Python Functions & Karel
-- [ ] **Day 7** - Hangman
-- [ ] **Day 8** - Function Parameters & Caesar Cipher
+- [x] **Day 5** - Python Loops
+- [x] **Day 6** - Python Functions & Karel
+- [x] **Day 7** - Hangman
+- [x] **Day 8** - Function Parameters & Caesar Cipher
 - [ ] **Day 9** - Dictionaries, Nesting and the Secret Auction
 - [ ] **Day 10** - Functions with Outputs
 - [ ] **Day 11** - The Blackjack Capstone Project

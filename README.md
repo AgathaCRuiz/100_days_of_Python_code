@@ -64,8 +64,8 @@ Aqui está a lista organizada com os desafios divididos por nível, usando emoji
 - [x] **Day 6** - Python Functions & Karel
 - [x] **Day 7** - Hangman
 - [x] **Day 8** - Function Parameters & Caesar Cipher
-- [ ] **Day 9** - Dictionaries, Nesting and the Secret Auction
-- [ ] **Day 10** - Functions with Outputs
+- [x] **Day 9** - Dictionaries, Nesting and the Secret Auction
+- [x] **Day 10** - Functions with Outputs
 - [ ] **Day 11** - The Blackjack Capstone Project
 - [ ] **Day 12** - Scope & Number Guessing Game
 - [ ] **Day 13** - Debugging: How to Find and Fix Errors in your Code
